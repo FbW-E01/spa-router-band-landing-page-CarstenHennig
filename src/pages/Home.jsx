@@ -5,7 +5,7 @@ export default function Home(){
                 Comeback Of ABBA
             </h1>
             <header>
-                <img src="https://www.eurovision.de/geschichte/abba348_v-contentxl.jpg" alt="ABBA" width="300px" />
+                <img src="https://www.eurovision.de/geschichte/abba348_v-contentxl.jpg" alt="ABBA" width="500px" />
             </header>
         </div>
     )

@@ -26,9 +26,9 @@ export default function App() {
                 <Route path="/bjoern">
                     <Bjoern />
                 </Route>
-                <Route path="/">
+                {/* <Route path="/">
                     <Home />
-                </Route>
+                </Route> */}
             </Switch>
         <Navigation />
 
